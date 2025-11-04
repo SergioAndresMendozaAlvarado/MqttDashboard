@@ -1,0 +1,10 @@
+2025-11-04 00:34:54 | INFO     | __main__:test_database:12 - === INICIANDO PRUEBA DE BASE DE DATOS ===
+2025-11-04 00:34:54 | INFO     | database.db_manager:initialize:27 - Conectando a MySQL: localhost:3306/fridge_monitoring
+2025-11-04 00:34:54 | ERROR    | database.db_manager:initialize:51 - Error al inicializar base de datos: (pymysql.err.OperationalError) (2059, "Authentication plugin 'b'auth_gssapi_client'' not configured")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 00:34:54 | ERROR    | __main__:test_database:16 - ❌ No se pudo inicializar la base de datos
+2025-11-04 00:35:59 | INFO     | __main__:test_database:12 - === INICIANDO PRUEBA DE BASE DE DATOS ===
+2025-11-04 00:35:59 | INFO     | database.db_manager:initialize:27 - Conectando a MySQL: localhost:3306/fridge_monitoring
+2025-11-04 00:35:59 | ERROR    | database.db_manager:initialize:51 - Error al inicializar base de datos: (pymysql.err.OperationalError) (2059, "Authentication plugin 'b'auth_gssapi_client'' not configured")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 00:35:59 | ERROR    | __main__:test_database:16 - ❌ No se pudo inicializar la base de datos

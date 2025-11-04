@@ -1,0 +1,23 @@
+# UI Framework
+PyQt6==6.7.0
+PyQt6-Qt6==6.7.0
+
+# MQTT
+paho-mqtt==2.1.0
+
+# Database
+SQLAlchemy==2.0.23
+pymysql==1.1.0
+cryptography==42.0.0
+
+# Gráficos (MEJOR que matplotlib para tiempo real)
+pyqtgraph==0.13.7
+
+# Configuración
+python-dotenv==1.0.1
+
+# Logging
+loguru==0.7.2
+
+# Utilidades
+pytz==2024.1              # Para zona horaria Bolivia
